@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+.main
+{
+  display:flex;
+  flex-wrap: wrap;
+  width: 400px;
+  justify-content: :start;
+  background-color:  #d9d9d9;
+}
+
+.content
+{
+  width: 340px;
+  margin-top:3px;
+  display:flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  background-color: #ffcccc;
+}
+
+#fact
+{
+  font-style: italic;
+}
+
+.facts
+{
+  list-style-type: none;
+  padding: 0%;
+}
+
+.common_border
+{
+  border: 1px solid #86b3af;
+  padding: 3%;
+}
+
+.highlight
+{
+  box-shadow: 3px 3px 4px #97ccc8;
+}
+
+.label
+{
+ font-weight: bold;
+}
+
+.main_head
+{
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 4px;
+  padding: 4px;
+  font:
+}
+
+.main_img
+{
+  margin-bottom: 4px;
+  width:300px;
+  height: 200px;
+  margin-left: 20px;
+}
